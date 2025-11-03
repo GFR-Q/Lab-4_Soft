@@ -17,6 +17,7 @@ public class Request {
     @Column(name = "user_name", nullable = false)
     private String userName;
 
+
     @Column(name = "phone", nullable = false)
     private String phone;
 
